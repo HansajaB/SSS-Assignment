@@ -21,6 +21,11 @@ Step8:the go to postman or online api testing to get Post request send this requ
     }
 }
 Step9:go to mongoDB and see weather data is add
+Step10: create .env file and save it on server file location
+  details that need to enter .env file 
+      MONGO_URI = /* get this path from mongodb*/
+      JWT_KEY = kjhfkjdhasfjkhdskjfhdskjhfkjh
+      JWT_EXPIRES_IN = 1000000
 Step10:then go to the site and login to admin now you can add doctors and patient
 
 Training Dataset
