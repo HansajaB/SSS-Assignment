@@ -1,4 +1,6 @@
 # SSS-Assignment
+IT21192500 - H.M..B Kandepola
+IT21268458 - A.V.R Dissanayaka
 
 Steps to setup MERN platform
 
